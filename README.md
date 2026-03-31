@@ -19,6 +19,7 @@ Para ejecutar la aplicación localmente, puedes usar el siguiente comando en tu 
 
     ```
 ## Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tu característica o corrección de errores.
+
+  ¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
+  1. Haz un fork del repositorio.
+  2. Crea una nueva rama para tu característica o corrección de errores.
