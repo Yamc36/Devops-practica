@@ -12,6 +12,9 @@ Bienvenido al repositorio de la aplicación móvil para el restaurante Choque Cu
 ## Uso
 
 Para ejecutar la aplicación localmente, puedes usar el siguiente comando en tu terminal:
+
 ```bash
+
 npm start
+
 ```
