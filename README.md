@@ -13,8 +13,8 @@
 
 Para ejecutar la aplicación localmente, puedes usar el siguiente comando en tu terminal:
 
-```bash
+    ```bash
 
-npm start
+    npm start
 
-```
+    ```
