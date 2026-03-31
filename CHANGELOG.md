@@ -6,3 +6,4 @@
 
 - Creación del repositorio inicial.
 - Adición del Código de Conducta.
+- Adición del README con instrucciones básicas de instalación y uso.
