@@ -1,6 +1,6 @@
 # Choque Cultural - App Móvil
 
-Bienvenido al repositorio de la aplicación móvil para el restaurante Choque Cultural. 
+    Bienvenido al repositorio de la aplicación móvil para el restaurante Choque Cultural. 
 
 ## Instrucciones de Instalación
 
