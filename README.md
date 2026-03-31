@@ -7,6 +7,7 @@ Bienvenido al repositorio de la aplicación móvil para el restaurante Choque Cu
 1. Descarga el código.
 2. Abre el proyecto en tu editor.
 3. No olvides guardar los cambios realizados.
+4. Asegurate de subir el archivo a tu repositorio remoto para mantenerlo actualizado.
 
 ## Uso
 
