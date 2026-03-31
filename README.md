@@ -1,6 +1,6 @@
 # Choque Cultural - App Móvil
 
-  Bienvenido al repositorio de la aplicación móvil para el restaurante Choque Cultural.
+Bienvenido al repositorio de la aplicación móvil para el restaurante Choque Cultural.
 
 ## Instrucciones de Instalación
 
@@ -18,4 +18,7 @@ Para ejecutar la aplicación localmente, puedes usar el siguiente comando en tu 
     npm start
 
     ```
-  
+## Contribuciones
+¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tu característica o corrección de errores.
